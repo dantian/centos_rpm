@@ -3,7 +3,7 @@
 set -e
 
 ###############################################################################################
-#### A script to download go and build rpms for CSV environment                          ######
+#### A script to download go and build rpms for CentOS-6 environment                          ######
 ###############################################################################################
 
 function usage {
