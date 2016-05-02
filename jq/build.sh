@@ -3,7 +3,7 @@
 set -e
 
 ###############################################################################################
-#### A script to download go and build rpms for CSV environment                          ######
+#### A script to download jq and install on a CentOS-5 or CentOS-6 host                  ######
 ###############################################################################################
 
 function usage {
